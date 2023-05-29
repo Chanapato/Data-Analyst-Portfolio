@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+# PORTFOLIO
 ## Hi there!
 ### Welcome to my portfolio
 My name is Chanapat Orachorn. I am a recent graduate in Big Data and Data Science, passionate about using data analytics to solve problems and enhance business performance.
