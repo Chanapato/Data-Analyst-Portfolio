@@ -19,7 +19,7 @@ I found some interesting questions after looking at data and having conversation
 * Top 5 best seller products are only coffee and tea.
 * Slower sales in the middle of the month, from 12 to 16.
 * Customers are likely to visit the shop at 8AM and from noon to 1PM, which is 38.62% out of total number of customers.   
-
+ 
 \
 To complete this analysis, I have created the sale summary dashboard focused on necessary details and visualisations to show sales over time per customers and product category.\
 \
