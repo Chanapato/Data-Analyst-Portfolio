@@ -8,6 +8,12 @@ I also have experience in using a range of technologies and tools to gather, org
 This portfolio includes several kinds of projects that demonstrate my analytical skills and ability to use a variety of tools to present data in an understandable and clear way.
 
 ### My projects
+
+#### [Web Scrapping and Sentiment Analysis (Python)](https://github.com/Chanapato/Data-Analyst-Portfolio/tree/main/Python/Web%20Scrapping%20and%20Sentiment%20Analysis)
+- Extracted customer product reviews from Amazon using Splash and BeautifulSoup.
+- Analysed customer reviews by getting the most frequent used words from WordCloud to visualise what customers talking about the product.
+- Utilised sentiment analysis, which is Natural Language Processing (NLP), to analyse and identify texts from customer reviews and determine if the emotional tome of the message is positive, negative or neutral.
+
 #### [Coffee Shop Sales Analysis (SQL & Tableau)](https://github.com/Chanapato/Data-Analyst-Portfolio/tree/main/SQL/Coffee%20Shop%20Sales%20Analysis)
 - Analysed sales data from POS to understand customer behaviour and shop profit and loss.
 - Transformed raw data into meaningful information and analysed by using MySQL, resulting in discovering actionable insights which can help the shop to minimise costs and optimise the business.
