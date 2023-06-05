@@ -1,4 +1,4 @@
-# SQL Portfolio - B3 Route Coffee Shop
+# SQL - B3 Route Coffee Shop
 ## Introduction
 I find it interesting to analyse data for my sister's coffee shop, a small business in Thailand known as B3 Route. Earlier, she has never looked back at the data and never thought that we could do something with the data she has got. Thus, I decided to support her figure out some insights that she might not know yet to help her make a better decision.\
 \
