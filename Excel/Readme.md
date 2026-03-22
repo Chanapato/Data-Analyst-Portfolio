@@ -4,6 +4,8 @@ This project is a Full Portfolio Health Check of a 100-SKU furniture range. By s
 
 The goal was to identify which products are most vulnerable to global shipping changes and which items are "trapping" the company's cash in long wait times. This tool helps a Buying Team decide exactly where to raise prices and which products to stop selling.
 
+[Click here to download the Interactive Excel Tool](./Furniture.xlsx)
+
 ## Analysis Overview & Technical Implementation
 To make the data actionable, I used the following technical approaches:
 
@@ -22,12 +24,12 @@ To make the data actionable, I used the following technical approaches:
 This tool allows a user to audit any SKU in seconds. It pulls in real-time data on sales, margins and the price gap versus competitors.
 \
 \
-<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Automated%20Action%20Status%20Star.png" width="500" />
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Automated_Action_Status_Star.png" width="500" />
 \
 Interactive tool showing a "Critical" risk SKU due to low sales and high lead time.
 \
 \
-<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Automated%20Action%20Status%20Critical.png" width="500" />
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Automated_Action_Status_Critical.png" width="500" />
 \
 The tool identifying a "Star" product with healthy margins.
 
@@ -35,34 +37,34 @@ The tool identifying a "Star" product with healthy margins.
 An automated list of all products flagged for immediate management review vased on the toxic duo of low sales and long lead times.
 \
 \
-<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Critical%20Items.png" width="500" />
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Critical_Items.png" width="500" />
 
 **3. Profitability Stress Test (Freight Impact)**
 This table isolates products that fall below the 55% margin threshold after 25% regional freight increase. It highlights the previous and post-freight margin.
 \
 \
-<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Freight%20Increase.png" width="500" />
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Freight_Increase.png" width="500" />
 
 **4. Supply Chain Efficency (Lead Time vs Units Sold)**
 This scatter plot visualises dead captial. Products in the top-left quadrant take the longest to arrive but sell the least.
 \
 \
-<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Lead%20Time%20VS%20Sales.png" width="500" />
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Lead_Time_Sales.png" width="500" />
 
 **5. Portfolio Quadrant (Margin vs. Units Sold)**
 A macro-view of the range, separating high-volume heros from low-margin drain products.
 \
 \
-<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Margin%20VS%20Sales.png" width="500" />
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Margin_Sales.png" width="500" />
 \
 \
-<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Top%20sales%20and%20High%20Margin.png" width="350" />
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Top_sales_and_High_Margin.png" width="350" />
 
 **6. Quality Audit: Region Return Rate**
 By ranking return rate by country, we can spot quality trends and hidden costs. This identifies regions where production may need to be moved or audited.
 \
 \
-<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Region%20Return%20Rate.png" width="200" />
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Region_Return_Rate.png" width="200" />
 
 ## Final Recommendations
 Based on the data, I proposed three clear actions:
