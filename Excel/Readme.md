@@ -26,7 +26,7 @@ This tool allows a user to audit any SKU in seconds. It pulls in real-time data 
 Interactive tool showing a "Critical" risk SKU due to low sales and high lead time.
 \
 ![](Automated%20Action%20Status%20Star.png)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="Automated%20Action%20Status%20Star.png" width="200" height="400" />
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Region_Return_Rate.png" width="200" height="400" />
 \
 The tool identifying a "Star" product with healthy margins.
 
