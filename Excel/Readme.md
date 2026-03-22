@@ -2,16 +2,16 @@
 ## Executive Summary
 This project is a Full Portfolio Health Check of a 100-SKU furniture range. By shifting the focus from simple sales volume to total land cost, I built a diagnostic tool to evaluate how shipping cost, manufacturing delays, and product quality impact the bottom line.
 
-The goal was to identify which products are most vulnerable to global shipping changes and which items are "trapping" the company's cash in long wait times. This tool helps a Buying Team decide exactly where to raise prices and which products to stop selling.
+The goal was to identify which products are most vulnerable to global shipping changes and which items are trapping the company's cash in long wait times. This tool helps a Buying Team decide exactly where to raise prices and which products to stop selling.
 
 [Click here to download the Interactive Excel Tool](./Furniture.xlsx)
 
 ## Analysis Overview & Technical Implementation
 To make the data actionable, I used the following technical approaches:
 
-- **Regional Stress Testing (IF/OR Logic):** I simulated a 25% freight increase specifically for high-risk shipping routes (e.g., China and Vietnam). Using IF(OR) formulas, I isolated how regional cost spikes impact the "New Margin" of specific products compared to local sourcing.
+- **Regional Stress Testing (IF/OR Logic):** I simulated a 25% freight increase specifically for high-risk shipping routes (e.g., China and Vietnam). Using IF(OR) formulas, I isolated how regional cost spikes impact the new margin of specific products compared to local sourcing.
 
-- **Inventory Efficiency Audit:** I cross-referenced Manufacturing Lead Times against Units Sold to pinpoint "Dead Capital." This identifies products that tie up company cash for over 12 weeks without providing a high enough sales volume to justify the warehouse space.
+- **Inventory Efficiency Audit:** I cross-referenced Manufacturing Lead Times against Units Sold to pinpoint dead capital. This identifies products that tie up company cash for over 10 weeks without providing a high enough sales volume to justify the warehouse space.
 
 - **Quality & Design Review:** I analysed Regional Return Rates to uncover hidden costs. By identifying factories with return rates over 6%, the business can determine if a product has a high return, it is a sign of a quality issue at the factory or a flaw in the design.
 
@@ -26,21 +26,22 @@ This tool allows a user to audit any SKU in seconds. It pulls in real-time data 
 \
 <img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Automated_Action_Status_Star.png" width="500" />
 \
-Interactive tool showing a "Critical" risk SKU due to low sales and high lead time.
+The tool identifying a "Star" product with healthy margins.
 \
 \
 <img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Automated_Action_Status_Critical.png" width="500" />
 \
-The tool identifying a "Star" product with healthy margins.
+Interactive tool showing a "Critical" risk SKU due to low sales and high lead time.
+
 
 **2. The Critical Hit List**
-An automated list of all products flagged for immediate management review vased on the toxic duo of low sales and long lead times.
+A list of all products flagged for immediate management review based on the toxic duo of low sales and long lead times.
 \
 \
 <img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Critical_Items.png" width="500" />
 
 **3. Profitability Stress Test (Freight Impact)**
-This table isolates products that fall below the 55% margin threshold after 25% regional freight increase. It highlights the previous and post-freight margin.
+This table isolates products that fall below the 55% margin threshold after 25% regional freight increase. By cross-referencing these against the Competitor Price Index, the tool identifies two recovery pathways: implementing strategic price hikes for items priced below market average, or initiating material re-engineering to reduce production costs for products already at their price ceiling.
 \
 \
 <img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Freight_Increase.png" width="500" />
