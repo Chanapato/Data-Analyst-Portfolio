@@ -21,32 +21,55 @@ To make the data actionable, I used the following technical approaches:
 **1. Interactive SKU Risk Profiler**
 This tool allows a user to audit any SKU in seconds. It pulls in real-time data on sales, margins and the price gap versus competitors.
 \
-<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Automated%20Action%20Status%20Star.png" width="200" height="400" />
+\
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Automated%20Action%20Status%20Star.png" width="500" />
 \
 Interactive tool showing a "Critical" risk SKU due to low sales and high lead time.
 \
 \
-<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Automated%20Action%20Status%20Critical.png" width="200" height="400" />
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Automated%20Action%20Status%20Critical.png" width="500" />
 \
 The tool identifying a "Star" product with healthy margins.
 
 **2. The Critical Hit List**
 An automated list of all products flagged for immediate management review vased on the toxic duo of low sales and long lead times.
+\
+\
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Critical%20Items.png" width="500" />
 
 **3. Profitability Stress Test (Freight Impact)**
 This table isolates products that fall below the 55% margin threshold after 25% regional freight increase. It highlights the previous and post-freight margin.
+\
+\
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Freight%20Increase.png" width="500" />
 
 **4. Supply Chain Efficency (Lead Time vs Units Sold)**
 This scatter plot visualises dead captial. Products in the top-left quadrant take the longest to arrive but sell the least.
+\
+\
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Lead%20Time%20VS%20Sales.png" width="500" />
 
 **5. Portfolio Quadrant (Margin vs. Units Sold)**
 A macro-view of the range, separating high-volume heros from low-margin drain products.
+\
+\
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Margin%20VS%20Sales.png" width="500" />
+\
+\
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Top%20sales%20and%20High%20Margin.png" width="350" />
 
 **6. Quality Audit: Region Return Rate**
 By ranking return rate by country, we can spot quality trends and hidden costs. This identifies regions where production may need to be moved or audited.
-![](Region_Return_Rate.png)
+\
+\
+<img src="https://github.com/Chanapato/Data-Analyst-Portfolio/blob/main/Excel/Region%20Return%20Rate.png" width="200" />
 
+## Final Recommendations
+Based on the data, I proposed three clear actions:
 
+**1. Exit critical SKUs:** Discontinue products that have low sales and high lead times.
 
+**2. Price harmonization:** Increase prices on "at-risk" items where we are significantly cheaper than the competitor index.
 
+**3. Supplier shift:** Investigate moving high-return production to more reliable regions to protect the net margin.
 
