@@ -1,4 +1,4 @@
-# Retail Portfolio Optimization: Margin & Supply Chain Risk
+# Retail Portfolio Optimisation: Margin & Supply Chain Risk
 ## Executive Summary
 This project is a Full Portfolio Health Check of a 100-SKU furniture range. By shifting the focus from simple sales volume to total land cost, I built a diagnostic tool to evaluate how shipping cost, manufacturing delays, and product quality impact the bottom line.
 
@@ -13,7 +13,7 @@ To make the data actionable, I used the following technical approaches:
 
 - **Inventory Efficiency Audit:** I cross-referenced Manufacturing Lead Times against Units Sold to pinpoint "Dead Capital." This identifies products that tie up company cash for over 12 weeks without providing a high enough sales volume to justify the warehouse space.
 
-- **Quality & Design Review:** I analyzed Regional Return Rates to uncover hidden costs. By identifying factories with return rates over 6%, the business can determine if a product has a high return, it is a sign of a quality issue at the factory or a flaw in the design.
+- **Quality & Design Review:** I analysed Regional Return Rates to uncover hidden costs. By identifying factories with return rates over 6%, the business can determine if a product has a high return, it is a sign of a quality issue at the factory or a flaw in the design.
 
 - **Automated Action Status (Nested IFs):** I built a status system that automatically flags a product as "Critical" if it fails two tests: sales below 50 units and a lead time exceeding 10 weeks.
 
