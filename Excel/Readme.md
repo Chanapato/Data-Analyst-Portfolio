@@ -21,11 +21,12 @@ To make the data actionable, I used the following technical approaches:
 **1. Interactive SKU Risk Profiler**
 This tool allows a user to audit any SKU in seconds. It pulls in real-time data on sales, margins and the price gap versus competitors.
 \
-![](Automated%20Action%20Status%20Critical.png | width=100)
+![](Automated%20Action%20Status%20Critical.png)
 \
 Interactive tool showing a "Critical" risk SKU due to low sales and high lead time.
 \
 ![](Automated%20Action%20Status%20Star.png)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="Automated%20Action%20Status%20Star.png" width="200" height="400" />
 \
 The tool identifying a "Star" product with healthy margins.
 
