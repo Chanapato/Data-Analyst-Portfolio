@@ -33,8 +33,7 @@ I built this tool to simulate a real-world **Pricing/Commercial Analyst** workfl
 3. **Actionable Insights:** It transforms a raw 105,000-row CSV into a structured "Hit List" for underwriters.
 
 ## 📂 Project Resources
-* 📥 **[Download the Excel Tool (.xlsm)](#)** - Download the interactive dashboard to see the full automation in action. (Note: Macros must be enabled).
-[Click here to download the Interactive Excel Tool](./Motor_Data.xlsm)
+* 📥 **[Download The Excel Tool](./Motor_Data.xlsm)** - Download the interactive dashboard to see the full automation in action. (Note: Macros must be enabled).
 * 📑 **Documentation:** Technical logic and formulas are embedded within the VBA modules of the workbook.
 
 ---
